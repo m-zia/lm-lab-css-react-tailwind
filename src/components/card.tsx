@@ -1,13 +1,13 @@
 export interface IProperty {
     property: {
-        location: string; 
-        country: string; 
-        property_type: string; 
-        bedroom_count: number; 
-        bathroom_count: number; 
-        price: string; 
-        image_urls: string[]; 
-        title: string; 
+        location: string;
+        country: string;
+        property_type: string;
+        bedroom_count: number;
+        bathroom_count: number;
+        price: string;
+        image_urls: string[];
+        title: string;
         description: string;
     };
 }
